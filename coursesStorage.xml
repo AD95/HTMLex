@@ -1,0 +1,15 @@
+<application>
+  <component name="CoursesStorage">
+    <courses>
+      <course>
+        <option name="courseMode" value="Study" />
+        <option name="description" value="Kotlin Koans are a series of exercises to get you familiar with the Kotlin syntax" />
+        <option name="humanLanguage" value="English" />
+        <option name="location" value="$USER_HOME$/StudioProjects/Kotlin Koans" />
+        <option name="name" value="Kotlin Koans" />
+        <option name="programmingLanguage" value="kotlin" />
+        <option name="type" value="PyCharm" />
+      </course>
+    </courses>
+  </component>
+</application>
